@@ -30,6 +30,10 @@ aside{
     grid-area: aside;
 }
 
+aside > img{
+    width: 100%
+}
+
 footer{
     grid-area: footer;
 }

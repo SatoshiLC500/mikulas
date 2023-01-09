@@ -23,6 +23,8 @@ header{
 
 nav{
     grid-area: nav;
+    background-color: red;
+    color: white;
 }
 
 article{
@@ -39,4 +41,7 @@ aside > img{
 
 footer{
     grid-area: footer;
+    background-color: red;
+    color: white;
+    text-align: center;
 }

@@ -12,6 +12,8 @@ body{
         "nav nav"
         "aside article"
         "footer footer";
+    width: 70%;
+    margin: 0 auto
 }
 
 header{

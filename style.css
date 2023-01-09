@@ -13,7 +13,8 @@ body{
         "aside article"
         "footer footer";
     width: 70%;
-    margin: 0 auto
+    margin: 0 auto;
+    background-color: white;
 }
 
 header{
